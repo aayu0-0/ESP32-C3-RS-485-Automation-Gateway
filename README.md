@@ -99,9 +99,6 @@ Home_Automation_Bengaluru/
 - Enclosure-oriented PCB development.
 - Version-controlled hardware development.
 
-## License
-
-License information will be added separately.
 
 ---
 
